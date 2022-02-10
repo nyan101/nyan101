@@ -5,7 +5,7 @@
 
 ### Competitive Programming
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyan101)](https://solved.ac/nyan101)
-<a href="https://codeforces.com/profile/nyan101" rel="nofollow"><img src="http://cf.leed.at?id=nyan101" alt="CodeForces Profile" style="max-width: 100%; vertical-align: top;;"></a>
+<a href="https://codeforces.com/profile/nyan101" rel="nofollow"><img align=top src="http://cf.leed.at?id=nyan101" alt="CodeForces Profile" style="max-width: 100%;"></a>
 
 ### Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=nyan101&show_icons=true)
