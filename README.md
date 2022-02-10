@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+img {
+  vertical-align: top;
+}
+</style>
