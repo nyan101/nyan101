@@ -1,4 +1,9 @@
-### Hi there 👋
+## Nyan101
+
+### 컴퓨터 & 수학 비슷한 거 공부하는 사람
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyan101)](https://hits.seeyoufarm.com)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyan101)](https://solved.ac/nyan101)
 
 <!--
 **nyan101/nyan101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
