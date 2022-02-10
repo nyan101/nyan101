@@ -4,7 +4,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyan101)](https://hits.seeyoufarm.com)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nyan101&show_icons=true)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyan101)](https://solved.ac/nyan101)
 
 <!--
