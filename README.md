@@ -1,7 +1,7 @@
 ## Nyan101
 
 ### 컴퓨터 & 수학 비슷한 거 공부하는 사람 [[blog](https://nyan101.github.io)] [[CV](https://nyan101.github.io/about/)]
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyan101)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyan101)](https://hits.seeyoufarm.com) -->
 
 ### Competitive Programming
 <!-- vertical align을 위해 html tag 직접 사용 -->
